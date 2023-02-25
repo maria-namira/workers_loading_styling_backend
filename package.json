@@ -1,0 +1,18 @@
+{
+  "name": "workers_loading_styling_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "koa-slow": "^2.1.0",
+    "lodash.isregexp": "^3.0.5",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
